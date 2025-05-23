@@ -2,6 +2,9 @@
 
 This is the architecture of our proposed CLIP-Adaptive Decision Framework:
 ![PCR Framework](framework.png)
+
+## Python Version
+Python 3.10.15
 ## Environment Dependencies
 
 Please ensure your Python environment includes the following package versions:
